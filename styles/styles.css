@@ -50,3 +50,17 @@ table {
 body{
     background-color: red;
 }
+
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:18px;
+}
+
+h1{
+    font-size:3em;
+}
+
+a{
+    text-decoration:none;
+}
+
